@@ -5,13 +5,13 @@ Os códigos foram desenvolvidos com foco na prática da **lógica de programaç�
 
 ## ✍️ Conteúdo abordado
 
-- Variáveis e tipos primitivos
 - Estruturas de repetição (for, while, do-while)
 - Condicionais (if, else, switch)
 - Arrays
 - Leitura de dados com Scanner
 - Desafios propostos em cursos como:
     - DevDojo: Lógica de Programação "Virado no Jiraya"
+    - DevDojo: Maratona Java
     - DIO: Bootcamp Java Backend (Santander)
 
 ## 📁 Organização
