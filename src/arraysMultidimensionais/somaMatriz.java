@@ -9,8 +9,8 @@ public class somaMatriz {
         int[][] matriz = new int[3][3];
         int soma = 0;
 
-        System.out.println("----------");
-        System.out.println("Preencha a matriz 3x3:");
+        System.out.println("-----------------------");
+        System.out.println("PREENCHA A MATRIZ 3x3:");
 
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
@@ -18,8 +18,8 @@ public class somaMatriz {
                 matriz[i][j] = sc.nextInt();
             }
         }
-        System.out.println("----------");
-        System.out.println("A matriz preenchida é:");
+        System.out.println("-----------------------");
+        System.out.println("A MATRIZ PREENCHIDA É:");
 
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[i].length; j++) {
@@ -28,8 +28,8 @@ public class somaMatriz {
             }
             System.out.println();
         }
-        System.out.println("----------");
-        System.out.println("A soma dos elementos da matriz é: " + soma);
+        System.out.println("-----------------------");
+        System.out.println("A SOMA DOS ELEMENTOS É: " + soma);
     }
 }
 
