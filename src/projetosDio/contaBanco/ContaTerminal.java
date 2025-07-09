@@ -28,7 +28,7 @@ public class ContaTerminal {
         System.out.print("Quanto de saldo você deseja depositar ?: ");
         saldo = input.nextDouble();
 
-        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é: " + agencia + " conta: " + numero + " e seu saldo depositado de R$" + saldo + " já está disponível para saque.");
+        System.out.println("Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é: " + agencia + " conta: " + numero + " e o seu saldo depositado de R$" + saldo + " já está disponível para saque.");
 
     }
 }
