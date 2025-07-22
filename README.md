@@ -9,10 +9,7 @@ Os códigos foram desenvolvidos com foco na prática da **lógica de programaç�
 - Condicionais (if, else, switch)
 - Arrays
 - Leitura de dados com Scanner
-- Desafios propostos em cursos como:
-    - DevDojo: Lógica de Programação "Virado no Jiraya"
-    - DevDojo: Maratona Java
-    - DIO: Bootcamp Java Backend (Santander)
+- Desafios propostos em cursos
 
 ## 📁 Organização
 
